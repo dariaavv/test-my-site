@@ -47,4 +47,5 @@ markdown_extensions:
   - pymdownx.superfences
   - admonition
   - pymdownx.details
-copyright: © Copyright 2025 - DT - All Rights Reserved.
+copyright: © Copyright 2025 - Daria Tombolelli - All Rights Reserved.
+INHERIT: ./nav.yml

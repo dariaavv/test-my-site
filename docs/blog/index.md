@@ -1,0 +1,1 @@
+This is a collection of different articles about technical writing in the software field.

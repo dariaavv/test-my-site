@@ -1,0 +1,6 @@
+nav:
+  - Welcome: index.md
+  - Blog: 
+      - 28 Apr 2025: 20250428.md
+  - Contact: contact.md
+
